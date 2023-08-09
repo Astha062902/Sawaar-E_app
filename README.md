@@ -3,16 +3,16 @@ A significant number of Indians rely on the metro for their daily commute, total
 
 ## Main Features
 ### Rider Side
--_ChatBot_
+- __ChatBot__
 This chat bot aims to streamline communication and facilitate seamless interaction between the four passengers, enabling them to plan and coordinate their travel arrangements more efficiently.
--_Alert_
+- __Alert__
 It will send an alert to the passengers within 5 minutes if no drivers are available so that they can opt for an alternate route without having to wait endlessly.
 -_Poll_
 Riders can start a poll or join an existing poll depending on their desired destination.
 ### Driver Side
--_Poll_
+- __Poll__
 It displays all the polls that have acquired 4 or more riders for a particular destination.
--_Map_
+- __Map__
 It displays a map view to the driver showing him the pickup location of the riders 
 
 ## General Functionality
