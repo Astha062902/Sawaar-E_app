@@ -1,16 +1,32 @@
 # Sawaar-E_app
+A significant number of Indians rely on the metro for their daily commute, totaling around 2.63 million individuals. However, for shorter distances, like getting to and from the metro station, e-rickshaws have become the preferred mode of transportation, with approximately 1 million electric rickshaws in use. Despite their popularity, people often struggle to find available e-rickshaws promptly for their desired destinations, such as workplaces or colleges. This issue stems from poor communication, as there may be others nearby heading to the same location. By connecting individuals traveling to the same area or destination, this concept aims to save time and money.
 
-A new Flutter project.
+## Main Features
+### Rider Side
+-_ChatBot_
+This chat bot aims to streamline communication and facilitate seamless interaction between the four passengers, enabling them to plan and coordinate their travel arrangements more efficiently.
+-_Alert_
+It will send an alert to the passengers within 5 minutes if no drivers are available so that they can opt for an alternate route without having to wait endlessly.
+-_Poll_
+Riders can start a poll or join an existing poll depending on their desired destination.
+### Driver Side
+-_Poll_
+It displays all the polls that have acquired 4 or more riders for a particular destination.
+-_Map_
+It displays a map view to the driver showing him the pickup location of the riders 
 
-## Getting Started
+## General Functionality
+### Homepage
+Shows the option of rider and driver , The user depending on their use case choose one of the them.
+### Rider
+-Signup
+-Choose rikshaw hotspot
+-Choose drop location, start poll
+-Find nearby riders and driver 
+-Communicate via chat room
+### Driver
+-Signup (register with vehicle number)
+-Current location detected
+-Notified  when 4 riders are found
+-Accept  Ride
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
