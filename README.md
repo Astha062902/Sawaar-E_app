@@ -7,7 +7,7 @@ A significant number of Indians rely on the metro for their daily commute, total
 This chat bot aims to streamline communication and facilitate seamless interaction between the four passengers, enabling them to plan and coordinate their travel arrangements more efficiently.
 - __Alert__
 It will send an alert to the passengers within 5 minutes if no drivers are available so that they can opt for an alternate route without having to wait endlessly.
--_Poll_
+-__Poll__
 Riders can start a poll or join an existing poll depending on their desired destination.
 ### Driver Side
 - __Poll__
@@ -20,11 +20,11 @@ It displays a map view to the driver showing him the pickup location of the ride
 Shows the option of rider and driver , The user depending on their use case choose one of the them.
 ### Rider
 Rider Side Interface
-  -Signup/Signin using phone number or email id
-  -Choose rikshaw hotspot
-  -Choose drop location, start poll
-  -Find nearby riders and driver 
-  -Communicate via chat room
+  *Signup/Signin using phone number or email id
+  *Choose rikshaw hotspot
+  *Choose drop location, start poll
+  *Find nearby riders and driver 
+  *Communicate via chat room
 ### Driver
 Driver Side Interface
   -Signup (register with vehicle number)
