@@ -19,7 +19,6 @@ It displays a map view to the driver showing him the pickup location of the ride
 ### Homepage
 Shows the option of rider and driver , The user depending on their use case choose one of the them.
 ### Rider
-***
 Rider Side Interface
   * Signup/Signin using phone number or email id
   * Choose rikshaw hotspot
@@ -27,7 +26,6 @@ Rider Side Interface
   * Find nearby riders and driver 
   * Communicate via chat room
 ### Driver
-***
 Driver Side Interface
   * Signup (register with vehicle number)
   * Current location detected
