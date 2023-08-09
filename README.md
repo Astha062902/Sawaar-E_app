@@ -7,7 +7,7 @@ A significant number of Indians rely on the metro for their daily commute, total
 This chat bot aims to streamline communication and facilitate seamless interaction between the four passengers, enabling them to plan and coordinate their travel arrangements more efficiently.
 - __Alert__
 It will send an alert to the passengers within 5 minutes if no drivers are available so that they can opt for an alternate route without having to wait endlessly.
--__Poll__
+- __Poll__
 Riders can start a poll or join an existing poll depending on their desired destination.
 ### Driver Side
 - __Poll__
