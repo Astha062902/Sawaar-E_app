@@ -5,4 +5,5 @@ First a user needs to register on our app. To register, you need to click on the
 ![](https://github.com/Astha062902/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/homepage.png?raw=true)
 ### The registration page for the buyer is :-
 
-- The user then needs to fill in his details according to the details mentioned in the page and then needs to click the REGISTER button.
+- The user then needs to fill in his details according to the details mentioned in the page and then needs to click the CREATE button.
+![](https://github.com/Astha062902/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/user_register.png?raw=true)
