@@ -24,6 +24,7 @@ First User has to choose his role as a RIDER or as a DRIVER.
 <p align="center">
   <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/User-Driver-SignIn.jpeg" />
 </p>
+
 - On selecting the metro station the user will be redirected to a polls page where ongoing polls will be shown and also have an option to start a poll if your destination doesnt match with the ongoing polls.
 <p align="center">
   <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/POLLS-RIder.jpeg" />
@@ -59,6 +60,7 @@ First User has to choose his role as a RIDER or as a DRIVER.
 
 ### Map
 - Displays a map view to the driver showing him the pickup location of the riders
+  
 ![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view3.jpeg)
 ![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view2.jpeg)
 ![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map%20view.jpeg)
