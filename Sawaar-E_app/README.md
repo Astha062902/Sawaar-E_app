@@ -60,9 +60,11 @@ First User has to choose his role as a RIDER or as a DRIVER.
 
 ### Map
 - Displays a map view to the driver showing him the pickup location of the riders
-  
-![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view3.jpeg=200*400)
-![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view2.jpeg=200*400)
-![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map%20view.jpeg=200*400)
+<p>
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view3.jpeg" width="200" height="400" />
+</p>
+![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view3.jpeg|width=200)
+![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view2.jpeg|width=200)
+![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map%20view.jpeg|width=200)
 
 - After the ride is completed the driver will be redirected to the polls page
