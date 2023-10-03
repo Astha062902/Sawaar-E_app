@@ -35,7 +35,7 @@ First User has to choose his role as a RIDER or as a DRIVER.
 - Once four people are join the poll and e-rikshaw driver accepts the poll the riders will be directed to a chatroom.
 - The chatroom will allow the riders to coordinate and meet at a common location which will then be sent to the driver as pickup location of riders
 <p align="center">
-  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/chatroom_page.png" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/chatroom_page.png" width="350" height="650" />
 </p>
 
 ## DRIVER'S SIDE
