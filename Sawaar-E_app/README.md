@@ -63,8 +63,11 @@ First User has to choose his role as a RIDER or as a DRIVER.
 <p>
   <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view3.jpeg" width="200" height="400" />
 </p>
-![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view3.jpeg|width=200)
-![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view2.jpeg|width=200)
-![](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map%20view.jpeg|width=200)
+<p>
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view2.jpeg" width="200" height="400" />
+</p>
+<p>
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map%20view.jpeg" width="200" height="400" />
+</p>
 
 - After the ride is completed the driver will be redirected to the polls page
