@@ -1,5 +1,6 @@
 # Sawaar-E_app
 A significant number of Indians rely on the metro for their daily commute, totaling around 2.63 million individuals. However, for shorter distances, like getting to and from the metro station, e-rickshaws have become the preferred mode of transportation, with approximately 1 million electric rickshaws in use. Despite their popularity, people often struggle to find available e-rickshaws promptly for their desired destinations, such as workplaces or colleges. This issue stems from poor communication, as there may be others nearby heading to the same location. By connecting individuals traveling to the same area or destination, this concept aims to save time and money.
+To directly see the app functioning[user guide](https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/README.md)
 
 ## Main Features
 ### Rider Side
