@@ -22,12 +22,13 @@ First User has to choose his role as a RIDER or as a DRIVER.
 ### Polls
 - After signin or signup the rider needs to find a ride by entering the metro station they want the ride at
 <p align="center">
-  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/User-Driver-SignIn.jpeg" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/Find_destination.jpeg" />
 </p>
 
 - On selecting the metro station the user will be redirected to a polls page where ongoing polls will be shown and also have an option to start a poll if your destination doesnt match with the ongoing polls.
 <p align="center">
-  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/POLLS-RIder.jpeg" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/POLLS-RIder.jpeg" / >
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/EnterDestination.jpeg"/>
 </p>
 
 
@@ -35,7 +36,7 @@ First User has to choose his role as a RIDER or as a DRIVER.
 - Once four people are join the poll and e-rikshaw driver accepts the poll the riders will be directed to a chatroom.
 - The chatroom will allow the riders to coordinate and meet at a common location which will then be sent to the driver as pickup location of riders
 <p align="center">
-  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/chatroom_page.png" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/chatroom_page.png" width="350" height="650" />
 </p>
 
 ## DRIVER'S SIDE
@@ -43,13 +44,13 @@ First User has to choose his role as a RIDER or as a DRIVER.
 ### Sign Up
 - Driver needs to create his/her account by filling in the details asked on the page and click on Create Account button.
 <p align="center">
-  <img src="https://github.com/Astha062902/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/user_register.png?raw=true" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/Driver_signup.jpeg" />
 </p>
 
 ### Sign IN 
 - Driver needs to fill in the details according to the details mentioned in the page and click on SignIn button
 <p align="center">
-  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/User-Driver-SignIn.jpeg" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/Driver_signin.jpeg" />
 </p>
 
 ### Polls
@@ -61,9 +62,10 @@ First User has to choose his role as a RIDER or as a DRIVER.
 ### Map
 - Displays a map view to the driver showing him the pickup location of the riders
 <p>
-  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view3.jpeg" width="300" height="600" />
-  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view2.jpeg" width="300" height="600" />
-  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map%20view.jpeg" width="300" height="600" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view3.jpeg" width="33%" height="600" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map-view2.jpeg" width="33%" height="600" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/map%20view.jpeg" width="33%" height="600" />
 </p>
+
 
 - After the ride is completed the driver will be redirected to the polls page
