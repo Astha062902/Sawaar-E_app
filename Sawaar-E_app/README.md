@@ -27,8 +27,8 @@ First User has to choose his role as a RIDER or as a DRIVER.
 
 - On selecting the metro station the user will be redirected to a polls page where ongoing polls will be shown and also have an option to start a poll if your destination doesnt match with the ongoing polls.
 <p align="center">
-  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/POLLS-RIder.jpeg" /
-  ><img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/EnterDestination.jpeg"/>
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/POLLS-RIder.jpeg" / >
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/EnterDestination.jpeg"/>
 </p>
 
 
