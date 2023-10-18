@@ -22,7 +22,7 @@ First User has to choose his role as a RIDER or as a DRIVER.
 ### Polls
 - After signin or signup the rider needs to find a ride by entering the metro station they want the ride at
 <p align="center">
-  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/User-Driver-SignIn.jpeg" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/Find_destination.jpeg" />
 </p>
 
 - On selecting the metro station the user will be redirected to a polls page where ongoing polls will be shown and also have an option to start a poll if your destination doesnt match with the ongoing polls.
@@ -43,13 +43,13 @@ First User has to choose his role as a RIDER or as a DRIVER.
 ### Sign Up
 - Driver needs to create his/her account by filling in the details asked on the page and click on Create Account button.
 <p align="center">
-  <img src="https://github.com/Astha062902/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/user_register.png?raw=true" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/Driver_signup.jpeg" />
 </p>
 
 ### Sign IN 
 - Driver needs to fill in the details according to the details mentioned in the page and click on SignIn button
 <p align="center">
-  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/User-Driver-SignIn.jpeg" />
+  <img src="https://github.com/mahita2104/Sawaar-E_app/blob/master/Sawaar-E_app/App_Images/Driver_signin.jpeg" />
 </p>
 
 ### Polls
